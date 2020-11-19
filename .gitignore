@@ -2,3 +2,7 @@
 \.idea/
 
 *.pyc
+
+gym_hexa7\.egg-info/
+
+dist/

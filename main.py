@@ -1,6 +1,7 @@
 import gym
 
-env = gym.make('gym_hexa7:hexa7-v0')
+env = gym.make('hexa7-v0')
+
 obs = env.reset()
 done = False
 while not done:
